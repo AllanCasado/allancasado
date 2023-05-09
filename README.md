@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a computer Science student with deep interest in Data Science. Proactivity, commitment and focus are part of my profile. Constantly seeking technical knowledge and developing interpersonal skills, to one day be an exceptional leader.
+
+Currently, I participate in the “Comunidade DS”, a private community for data scientists, where I have been acquiring the necessary skills to enter the data area. In addition, I consume other courses, videos, books, articles and all kinds of materials that add to my study.
+
+I already done two summer internships in BTG Pactual, both working with Data Science projects.
+* In the first one I worked on the development of a multi-class classification model to recommend a financial product category for a client's first investment.
+* The next one I worked on the development of a machine learning model to act in fraud prevention during the customer onboarding stage (account opening).
+
+I already have the necessary skills (hard and soft) to start generating value for companies through Data Science.
 
 ## Data Science Portfolio
 
