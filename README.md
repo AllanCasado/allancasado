@@ -23,9 +23,27 @@ All these experiences helped me to develop communication, understanding and mana
 
 ## Tools
 
-Data Science tools: Python (pandas, numpy, sklearn, seaborn, POO), Statistics, Machine Learning, SQL, Git, Virtual Environments, AWS (Athena, Sagemaker, S3), Web Scraping.
+Data Science:
+* Python (pandas, numpy, sklearn, seaborn, POO)
+* Statistics 
+* Machine Learning 
+* Git and Virtual Environments 
+* AWS (Athena, Sagemaker, S3) 
+* Web Scraping
+* SQL
 
-I also have some knowlodge in web development: Javascript, NodeJS, HTML, CSS, MongoDB, API's.
+In general, I have intermediary level in the above skills, I judge the necessary for starting generating value for companies through Data Science projects.
+ 
+Web development:
+* Javascript
+* NodeJS
+* HTML, CSS 
+* MongoDB 
+* API's
+
+I see tools as what they are: TOOLS.
+
+If necessary to learn and develop any other skill, I have the willingness and ability to do so.
 
 
 ## Data Science Portfolio
