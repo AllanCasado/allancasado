@@ -21,31 +21,6 @@ Recently, I participate on Inteli's Blockchain Challenge, where me and my group 
 All these experiences helped me to develop communication, understanding and managing people, resilience, emotional managment, colaboration and critical thinking.
 
 
-## Tools
-
-Data Science:
-* Python (pandas, numpy, sklearn, seaborn, POO)
-* Statistics 
-* Machine Learning 
-* Git and Virtual Environments 
-* AWS (Athena, Sagemaker, S3) 
-* Web Scraping
-* SQL
-
-In general, I have intermediary level in the above skills, I judge the necessary for starting generating value for companies through Data Science projects.
- 
-Web development:
-* Javascript
-* NodeJS
-* HTML, CSS 
-* MongoDB 
-* API's
-
-I see tools as what they are: TOOLS.
-
-If necessary to learn and develop any other skill, I have the willingness and ability to do so.
-
-
 ## Data Science Portfolio
 
 #### Health Insurance Cross Sell
